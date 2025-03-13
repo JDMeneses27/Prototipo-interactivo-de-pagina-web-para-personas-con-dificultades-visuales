@@ -14,3 +14,11 @@
     --color-12: #A4A4A4;
     --color-13: #E7E7E7;
 }
+@font-face {
+    font-family: "Roboto-Regular";
+    src: url(../stora/font/Roboto_Condensed/static/RobotoCondensed-Regular.ttf);
+}
+@font-face {
+    font-family: "Roboto-Bold";
+    src: url(../stora/font/Roboto_Condensed/static/RobotoCondensed-Bold.ttf);
+}
