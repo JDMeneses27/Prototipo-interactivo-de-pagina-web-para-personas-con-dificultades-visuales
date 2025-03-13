@@ -125,3 +125,16 @@ body{
     font-size: 30px;
     margin-right: 10px;
 }
+.social {
+    background-color: blue;
+    position: absolute;
+    margin-top: 499px;
+    margin-left: 1337px;
+    width: 82px;
+    height: 218px;
+    display: flex;
+    flex-direction: column;
+    align-items: left;
+    font-size: 72px;
+    color: var(--color-1);
+}
