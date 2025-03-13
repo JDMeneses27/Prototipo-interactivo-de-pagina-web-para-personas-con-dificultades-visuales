@@ -237,3 +237,42 @@ body{
     width: 141px;
     height: 141px;
 }
+.point3 {
+    position: absolute;
+    margin-top: 1578px;
+    margin-left: 169px;
+    background-color: chartreuse;
+    width: 1090px;
+    height: 195px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.point3 h1 {
+    font-family: "Roboto-Bold";
+    font-size: 64px;
+    color: var(--color-2);
+    background-color: var(--color-1);
+    border-radius: 100%;
+    width: 100px;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.point3 p {
+    background-color: cadetblue;
+    width: 750px;
+    height: 178px;
+    font-family: "Roboto-Regular";
+    font-size: 28px;
+    color: var(--color-1);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.point3 img {
+    margin-bottom: 50px;
+    width: 161px;
+    height: 161px;
+}
