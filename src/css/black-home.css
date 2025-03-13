@@ -199,3 +199,41 @@ body{
     width: 162px;
     height: 162px;
 }
+.point2 {
+    position: absolute;
+    margin-top: 1388px;
+    margin-left: 169px;
+    background-color: chartreuse;
+    width: 1088px;
+    height: 143px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.point2 h1 {
+    font-family: "Roboto-Bold";
+    font-size: 64px;
+    color: var(--color-2);
+    background-color: var(--color-1);
+    border-radius: 100%;
+    width: 100px;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.point2 p {
+    background-color: cadetblue;
+    width: 768px;
+    height: 143px;
+    font-family: "Roboto-Regular";
+    font-size: 28px;
+    color: var(--color-1);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.point2 img {
+    width: 141px;
+    height: 141px;
+}
