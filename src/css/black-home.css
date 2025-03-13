@@ -1,0 +1,88 @@
+@import url(../css/variables.css);
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: var(--color-2);
+}
+.water{
+    background-color: var(--color-1);
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 298px;
+    height: 96px;
+    border-radius: 48px;
+    margin-left: -43px;
+    margin-top: 22px;
+}
+.water p {
+    font-family: "Roboto-Regular";
+    font-size: 48px;
+    margin-right: 10px;
+    color: var(--color-2);
+}
+.water i {
+    font-size: 48px;
+    color: var(--color-5);
+}
+.texts {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: absolute;
+    background-color: aquamarine;
+    width: 732px;
+    height: 38px;
+    margin-top: 80px;
+    margin-left: 397px;
+}
+.texts p {
+    font-family: "Roboto-Bold";
+    font-size: 24px;
+    color: var(--color-1);
+}
+.texts a {
+    text-decoration: none;
+}
+.ligth {
+    background-color: blue;
+    position: absolute;
+    display: flex;
+    justify-content: space-between;
+    width: 100px;
+    align-items: center;
+    margin-top: 76px;
+    margin-left: 1300px;
+    font-size: 35px;
+}
+.moon {
+    color: var(--color-1);
+    
+}
+.sun {
+    color: var(--color-6);
+    
+}
+.CRAE {
+    background-color: blueviolet;
+    position: absolute;
+    margin-top: 171px;
+    margin-left: 100px;
+    width: 707px;
+}
+.CRAE img {
+    width: 707px;
+    height: 391px;
+}
+.CRAE h1 {
+    background-color: brown;
+    margin-top: 26px;
+    width: 707px;
+    height: 71px;
+    font-family: "Roboto-Regular";
+    font-size: 56.4px;
